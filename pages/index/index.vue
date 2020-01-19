@@ -3,6 +3,7 @@
 		<view class="title">uniCloud 云函数示例</view>
 		<view class="btn-list">
 			<button type="primary" @click="goto('mpweixinLogin')">微信小程序登录</button>
+			<button type="primary" @click="goto('payment')">支付</button>
 		</view>
 	</view>
 </template>
